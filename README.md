@@ -47,7 +47,7 @@ You can choose the model type by setting the `--architecture` parameter {*AE*, *
 Options for proxy_outliers are {*none*, *other_sections*, *other_sections_and_machines*}. 
 The `--consistent_with_librosa` flag ensures torchaudio returns the same results as librosa.
 
-## User interface
+## User Interface
 
 To view the training progress/ results, change directory to the log directory (`cd logs`) and start the mlflow dashboard with `mlflow ui`.
 By default, the dashboard will be served at `http://127.0.0.1:5000`.
