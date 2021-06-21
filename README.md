@@ -1,7 +1,7 @@
 # DCASE2021 Challenge - Task 2 - Machine Condition Monitoring
 
 This is our submission to task 2 of the 2021's DCASE challenge on *Unsupervised Anomalous Sound Detection for Machine Condition Monitoring under Domain Shifted Conditions*.
-For more information go to the [official DCASE website](http://dcase.community/challenge2021/task-unsupervised-detection-of-anomalous-sounds).
+For more information visit the [official DCASE website](http://dcase.community/challenge2021/task-unsupervised-detection-of-anomalous-sounds).
 
 
 ## Setup
@@ -47,7 +47,7 @@ You can choose the model type by setting the `--architecture` parameter {*AE*, *
 Options for proxy_outliers are {*none*, *other_sections*, *other_sections_and_machines*}. 
 The `--consistent_with_librosa` flag ensures torchaudio returns the same results as librosa.
 
-## User Interface
+## Dashboard
 
 To view the training progress/ results, change directory to the log directory (`cd logs`) and start the mlflow dashboard with `mlflow ui`.
 By default, the dashboard will be served at `http://127.0.0.1:5000`.
