@@ -1,4 +1,4 @@
-# DCASE2021 Challenge - Monitoring (Task 2)
+# DCASE2021 Challenge - Task 2 - Machine Condition Monitoring
 
 This is our submission to task 2 of the 2021's DCASE challenge on *Unsupervised Anomalous Sound Detection for Machine Condition Monitoring under Domain Shifted Conditions*.
 For more information go to the [official DCASE website](http://dcase.community/challenge2021/task-unsupervised-detection-of-anomalous-sounds).
